@@ -1,0 +1,27 @@
+_repo: Muuan-suomalainen-soturi-Kristiina-kuningattaren-aikakaudella_20854
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Jahnsson, Evald Ferdinand
+    birthdate: 1844
+    deathdate: 1895
+    gutenberg_agent_id: '5695'
+    url: http://www.gutenberg.org/2009/agents/5695
+    wikipedia: http://fi.wikipedia.org/wiki/Evald_Ferdinand_Jahnsson
+description: ''
+gutenberg_issued: '2007-03-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '20854'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Historical fiction'
+- !lcc 'PH'
+title: Muuan suomalainen soturi Kristiina kuningattaren aikakaudella
+url: http://www.gutenberg.org/ebooks/20854
